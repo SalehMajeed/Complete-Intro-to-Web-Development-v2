@@ -1,0 +1,10 @@
+flex command->
+display: flex;
+flex-direction: row-reverse;
+justify-content: center;
+justify-content: space-between;
+justify-content: space-arround;
+justify-content: space-evenly;
+align-items: flex-end;
+align-items: start-flex;
+align-items: stretch;
